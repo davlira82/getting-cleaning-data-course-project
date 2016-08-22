@@ -32,7 +32,7 @@ According with the experiment description, the different activities were labeled
 
 ### Measurements
 
-After merging, cleaning, and identifying the data set, the resulting variables in the file 'tidyData.txt' for each subject were:
+After merging, cleaning, and identifying the data set, the resulting variables in the file `tidyData.txt` for each subject were:
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
